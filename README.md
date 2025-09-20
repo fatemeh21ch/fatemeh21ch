@@ -1,16 +1,27 @@
 ## Hi there 👋
 
-<!--
-**fatemeh21ch/fatemeh21ch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#  I'm Fatemeh Chakerhosseini  
 
-Here are some ideas to get you started:
+🎓 **M.Sc. Student in Data Mining (Computer Science)** at Shahid Beheshti University  
+📊 Strong background in **Mathematics (graph theory, combinatorics)**  
+🧬 Aspiring **Immunoinformatics Researcher** – applying algorithmic and computational methods to biological datasets  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+
+
+## 🛠 Skills  
+
+**Programming & Development:** Python, C++, JavaScript, React, Web Design, UI/UX  
+**Data Science & ML:** Machine Learning, Neural Networks, Reinforcement Learning, NLP, LLMs  
+**Bioinformatics:** scRNA-seq Analysis, Bioinformatics Algorithms, Basic Immunology  
+
+
+
+## 🌐 Connect with me  
+📧 fatemeh.2000ch@gmail.com  
+📍 Tehran, Iran  
+
+---
+
+⭐️ Feel free to explore my repositories, contribute, or connect with me!
