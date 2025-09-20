@@ -3,6 +3,7 @@
 #  I'm Fatemeh Chakerhosseini  
 
 🎓 **M.Sc. Student in Data Mining (Computer Science)** 
+
 📊 Strong background in **Mathematics (graph theory, combinatorics)**  
 🧬 Aspiring **Immunoinformatics Researcher** – applying algorithmic and computational methods to biological datasets  
 
