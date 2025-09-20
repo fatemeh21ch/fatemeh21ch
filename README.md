@@ -22,6 +22,7 @@
 
 ## 🌐 Connect with me  
 📧 fatemeh.ch.hosseini@gmail.com  
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/fatemeh-chakerhosseini-5a8000386/)  
 📍 Tehran, Iran  
 
 ---
